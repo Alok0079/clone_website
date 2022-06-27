@@ -11,7 +11,7 @@ h2{
 p{
     color: dimgray;
 }
-.name_color{
+.orange_color{
     color: orangered;
 }
 .half-width{
@@ -29,6 +29,7 @@ p{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
